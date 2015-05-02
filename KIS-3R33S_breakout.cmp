@@ -1,0 +1,52 @@
+Cmp-Mod V01 Created by Cvpcb (2015-05-01 BZR 5636)-product   date = Sat 02 May 2015 08:34:12 PM CEST
+
+BeginCmp
+TimeStamp = /554514B5;
+Reference = C1;
+ValeurCmp = 1mF, 25V;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /554523C1;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = LEDs:LED-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /55451713;
+Reference = P1;
+ValeurCmp = Screw terminal;
+IdModule  = my_parts:MADW__SCREW_TERMINAL_2pin;
+EndCmp
+
+BeginCmp
+TimeStamp = /554518EC;
+Reference = P2;
+ValeurCmp = Screw terminal;
+IdModule  = my_parts:MADW__SCREW_TERMINAL_2pin;
+EndCmp
+
+BeginCmp
+TimeStamp = /55452440;
+Reference = R1;
+ValeurCmp = 4K7;
+IdModule  = Resistors_SMD:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /5545158E;
+Reference = RV1;
+ValeurCmp = 100k;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /5544F1EE;
+Reference = U1;
+ValeurCmp = KIS-3R33S_modif;
+IdModule  = DC-DC-modules:KIS-3R33S;
+EndCmp
+
+EndListe
