@@ -1,10 +1,10 @@
-Cmp-Mod V01 Created by Cvpcb (2015-05-01 BZR 5636)-product   date = Sat 02 May 2015 08:34:12 PM CEST
+Cmp-Mod V01 Created by Cvpcb (2015-05-01 BZR 5636)-product   date = Sat 02 May 2015 11:26:41 PM CEST
 
 BeginCmp
 TimeStamp = /554514B5;
 Reference = C1;
 ValeurCmp = 1mF, 25V;
-IdModule  = ;
+IdModule  = Capacitors:c_elec_SMD_12.5x13.5;
 EndCmp
 
 BeginCmp
