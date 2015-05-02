@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2015-05-01 BZR 5636)-product   date = Sat 02 May 2015 11:26:41 PM CEST
+Cmp-Mod V01 Created by Cvpcb (2015-04-23 BZR 5622)-product   date = Sun 03 May 2015 12:06:48 AM CEST
 
 BeginCmp
 TimeStamp = /554514B5;
@@ -39,7 +39,7 @@ BeginCmp
 TimeStamp = /5545158E;
 Reference = RV1;
 ValeurCmp = 100k;
-IdModule  = ;
+IdModule  = Potentiometers:trimmer-pot_side-adjust_TSR-3006P_TH;
 EndCmp
 
 BeginCmp
