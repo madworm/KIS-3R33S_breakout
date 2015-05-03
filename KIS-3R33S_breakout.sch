@@ -11,7 +11,7 @@ encoding utf-8
 Sheet 1 1
 Title "KIS-3R33S_breakout"
 Date "Sun 03 May 2015"
-Rev "0.11"
+Rev "0.12"
 Comp "2015 - blog.spitzenpfeil.org"
 Comment1 ""
 Comment2 ""
@@ -49,7 +49,7 @@ F 1 "100k" H 5900 3600 50  0000 C CNN
 F 2 "Potentiometers:trimmer-pot_side-adjust_TSR-3006P_TH" H 5900 3600 60  0001 C CNN
 F 3 "" H 5900 3600 60  0000 C CNN
 	1    5900 3600
-	0    -1   -1   0   
+	0    -1   1    0   
 $EndComp
 Connection ~ 5150 3850
 $Comp
@@ -104,7 +104,7 @@ F 3 "" H 6400 3800 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 Text Notes 5700 4000 0    39   ~ 0
-Trimmer 20-turn
+Trimmer 20-turn\n(clockwise: 2-->3)
 Text Label 5650 3600 2    60   ~ 0
 ADJ
 Text Label 4950 3550 0    60   ~ 0
