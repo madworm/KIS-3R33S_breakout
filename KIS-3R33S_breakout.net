@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source /home/robert/Electronics/Arduino/KiCAD/Projects/Adapters_and_Breakout-Boards/KIS-3R33S_breakout/KIS-3R33S_breakout.sch)
-    (date "Sun 03 May 2015 12:03:30 PM CEST")
+    (date "Sun 03 May 2015 03:37:45 PM CEST")
     (tool "Eeschema (2015-04-23 BZR 5622)-product")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
